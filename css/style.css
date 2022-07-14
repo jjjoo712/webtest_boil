@@ -1,0 +1,24 @@
+
+*{margin:0;padding:0;}
+li{list-style: none;}
+a{text-decoration: none; color:#222;}
+a:hover{
+  color:red;
+}
+
+/*common */
+
+.container{width:1200px; margin:0 auto;}
+.d-flex{display: flex;}
+.justify-content-between{justify-content: space-between;}
+.abs{position: absolute;}
+.rel{position: relative;}
+.ofh{overflow: hidden;}
+.m-auto{margin:0 auto;}
+.align-items-center{align-items: center;}
+
+.w1200{width:1200px;}
+.h100{height:100px;}
+.h200{height:200px;}
+.h300{height:300px;}
+
